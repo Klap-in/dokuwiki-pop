@@ -1,0 +1,3 @@
+This is ugly, ugly spaghetti code to easily create graphs and RSS from
+DokuWiki popularity data. This whole mess should be rewritten and be
+integrated into https://github.com/splitbrain/dokuwiki-plugin-pluginrepo

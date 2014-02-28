@@ -1,0 +1,9 @@
+<?php
+
+$conf = array(
+    'host' => 'localhost',
+    'user' => 'pluginrepo',
+    'pass' => 'secret',
+    'name' => 'pluginrepo'
+);
+
